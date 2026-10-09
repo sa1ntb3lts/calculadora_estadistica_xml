@@ -1,5 +1,6 @@
 # calculadora_estadistica_xml
-Estudiante: Santiago Beltran Astorga 225203551  
+Estudiante: Santiago Beltran Astorga 225203551
+
 Se requiere el desarrollo de una aplicación Java para calcular estadísticas de variables numéricas almacenadas en un documento XML.
 
 La aplicación debe recibir a través de la línea de comandos el nombre de un documento XML y al menos el nombre de una variable.
